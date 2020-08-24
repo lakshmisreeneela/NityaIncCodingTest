@@ -1,4 +1,4 @@
-package nityaIncCodingTest;
+package nityaIncCoding;
 
 import java.io.File;
 import java.io.IOException;

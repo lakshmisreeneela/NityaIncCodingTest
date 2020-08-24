@@ -1,4 +1,4 @@
-package nityaIncCodingTest;
+package nityaIncCoding;
 
 public class InnerClasses {
 
